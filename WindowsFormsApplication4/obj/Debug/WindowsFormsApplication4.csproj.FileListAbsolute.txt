@@ -1,0 +1,40 @@
+c:\users\андрей\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\андрей\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\андрей\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\андрей\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\андрей\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+F:\DOKI\6с\Лабы\ОПР\3\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+F:\DOKI\6с\Лабы\ОПР\3\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+F:\DOKI\6с\Лабы\ОПР\3\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\DOKI\6с\Лабы\ОПР\3\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\DOKI\6с\Лабы\ОПР\3\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+F:\DOKI\6с\Лабы\ОПР\3\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+F:\DOKI\6с\Лабы\ОПР\3\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\DOKI\6с\Лабы\ОПР\3\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+K:\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+K:\3\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\WindowsFormsApplication4 — копия (2)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\opr_yulia\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\opr_yulia\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\opr_yulia\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\opr_yulia\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\opr_yulia\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\opr_yulia\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Roman\Downloads\OPR_YuLya (2)\ОПР_ЮЛя\opr_yulia\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
